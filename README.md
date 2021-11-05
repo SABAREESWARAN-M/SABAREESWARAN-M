@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SABAREESWARAN-M
-- 👀 I’m interested in Web Development and Full-Stack developer
-- 🌱 I’m currently learning PHP,Back-End 
-- 📫 How to reach me sabareeswaranmn@gmail.com
+Hi, I’m @SABAREESWARAN-M 
+Full-Stack developer
+I’m currently learning PHP,Back-End 
+How to reach me sabareeswaranmn@gmail.com
 - MyBlog Website : https://learnwithsabareeswaran.blogspot.com/ and  https://sabareeswaranmn.wordpress.com/
 
 <!---
