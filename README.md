@@ -1,6 +1,6 @@
 Hi, I’m @SABAREESWARAN-M 
 Full-Stack developer
-I’m currently learning PHP,Back-End 
+I’m currently learning Back-End 
 How to reach me sabareeswaranmn@gmail.com
 - MyBlog Website : https://learnwithsabareeswaran.blogspot.com/ and  https://sabareeswaranmn.wordpress.com/
 
